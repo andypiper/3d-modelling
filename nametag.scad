@@ -7,14 +7,19 @@
 
 include <BOSL2/std.scad>
 
+// fonts below can be installed from homebrew
 // uncomment if not installed at system level
 // use <font/Allerta_Stencil/AllertaStencil-Regular.ttf>
 
-name = "@andypiper";
-nametag_font = "AllertaStencil";
-// nametag_font = "StardosStencil";
+// Name text
+name = "andypiper";
+
+// Font to use
+nametag_font = "AllertaStencil"; //[AllertaStencil, StardosStencil,Big Shoulders Stencil Text]
+// Font size
 nametag_font_size = 13.5;
-nametag_width = 8*16;
+
+nametag_width = 8*14;
 
 // You "shouldn't" need to change anything below:
 $fn = 60;
