@@ -7,6 +7,10 @@ Various 3D models for prints and other projects.
 - [OpenSCAD](https://openscad.org)
 - [BOSL2](https://github.com/revarbat/BOSL2) library.
 
+## Useful additional projects
+
+- [NopSCADlib](https://github.com/nophead/NopSCADlib) has a large number of components
+
 ## My profiles
 
 - [Printables](https://www.printables.com/social/489486-andy-piper/)
