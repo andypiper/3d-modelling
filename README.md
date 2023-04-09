@@ -2,8 +2,10 @@
 
 Various 3D models for prints and other projects.
 
-[OpenSCAD](https://openscad.org) + [BOSL2](https://github.com/revarbat/BOSL2) library.
+## Requirements
 
+- [OpenSCAD](https://openscad.org)
+- [BOSL2](https://github.com/revarbat/BOSL2) library.
 
 ## My profiles
 
