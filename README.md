@@ -2,6 +2,8 @@
 
 Various 3D models for prints and other projects.
 
+Still trying to get my head around different 3D modelling tools; primarily using OpenSCAD, FreeCAD, with a side of Tinkercad and Fusion 360.
+
 I'm pretty active on [Printables](https://www.printables.com/social/489486-andy-piper/) (at least as a consumer of other designs!) and post anything more broadly interesting there.
 
 ## Requirements
