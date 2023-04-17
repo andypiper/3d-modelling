@@ -24,7 +24,7 @@ nametag_width = 8*14;
 // You "shouldn't" need to change anything below:
 $fn = 60;
 beam_width    = 8;
-hole_diameter = 5.1;
+hole_diameter = 5.3; // increased from previous project
 hole_radius   = hole_diameter / 2;
 number_of_holes = 10;
 dimensions=[nametag_width,8*4,4];

@@ -2,6 +2,8 @@
 
 Various 3D models for prints and other projects.
 
+I'm pretty active on [Printables](https://www.printables.com/social/489486-andy-piper/) (at least as a consumer of other designs!) and post anything more broadly interesting there.
+
 ## Requirements
 
 - [OpenSCAD](https://openscad.org)
