@@ -22,10 +22,17 @@ I'm pretty active on [Printables](https://www.printables.com/@AndyPiper) (at lea
 - [Thingiverse](https://www.thingiverse.com/andypiperuk/)
 - [Thangs](https://thangs.com/designer/Andy%20Piper)
 - [Tinkercad](https://www.tinkercad.com/users/0z2EwxKwnmp-andy-piper)
+- [Pinshape](https://pinshape.com/users/2556538-andy-piper)
+- [OnShape]
+- [Womp]
+- [Shapr3D]
 
-## Tools I use
+## Tools I (actively) use
 
 - Tinkercad
 - AutoDesk Fusion 360
 - FreeCAD
 - OpenSCAD
+
+... plus a variety of other things I play with to test and learn!
+
