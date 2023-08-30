@@ -15,3 +15,5 @@ Snapshot has
 low poly STLs
 https://www.lowpoly3d.xyz/
 
+STL to wireframe SVG
+https://plotter.vision/

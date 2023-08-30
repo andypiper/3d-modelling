@@ -14,6 +14,7 @@ I'm pretty active on [Printables](https://www.printables.com/@AndyPiper) (at lea
 ## Useful additional projects
 
 - [NopSCADlib](https://github.com/nophead/NopSCADlib) has a large number of components
+- [LEGO.scad](https://github.com/cfinke/LEGO.scad) for generating LEGO-compatible objects
 
 ## My profiles
 
