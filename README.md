@@ -14,16 +14,19 @@ I'm pretty active on [Printables](https://www.printables.com/@AndyPiper) (at lea
 ## Useful additional projects
 
 - [NopSCADlib](https://github.com/nophead/NopSCADlib) has a large number of components
+- [LEGO.scad](https://github.com/cfinke/LEGO.scad) for generating LEGO-compatible objects
 
 ## My profiles
 
 - [Printables](https://www.printables.com/@AndyPiper)
+- [MakerWorld](https://makerworld.com/en/u/1559805466)
 - [Cults3D](https://cults3d.com/en/users/andypiper)
 - [Thingiverse](https://www.thingiverse.com/andypiperuk/)
 - [Thangs](https://thangs.com/designer/Andy%20Piper)
 - [Tinkercad](https://www.tinkercad.com/users/0z2EwxKwnmp-andy-piper)
 - [Pinshape](https://pinshape.com/users/2556538-andy-piper)
 - [YouMagine](https://www.youmagine.com/andypiper/designs)
+- [MyMiniFactory](https://www.myminifactory.com/users/andypiper)
 - [OnShape]
 - [Womp]
 - [Shapr3D]
